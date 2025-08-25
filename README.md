@@ -1,5 +1,5 @@
 👋 Olá! Eu sou a Elisa
-Sou uma desenvolvedora front-end de 19 anos, apaixonada por criar experiências web incríveis e funcionais. Estou sempre em busca de novos desafios e oportunidades de aprendizado. Neste perfil, você encontrará meus projetos e contribuições que demonstram minhas habilidades em desenvolvimento web.
+Sou uma desenvolvedora front-end de 20 anos, apaixonada por criar experiências web incríveis e funcionais. Estou sempre em busca de novos desafios e oportunidades de aprendizado. Neste perfil, você encontrará meus projetos e contribuições que demonstram minhas habilidades em desenvolvimento web.
 
 Eu estou interessada em aprender mais sobre a comunidade dev e poder contribuir.
 
@@ -20,8 +20,9 @@ Ferramentas de Versionamento: Uso de Git e GitHub para controle de versão.
 
 Atualmente, estou aprofundando meus conhecimentos em:
 
-Front-end.
+Front-end
 JavaScript
+Python
 
 📫 Como Entrar em Contato
 
