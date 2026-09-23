@@ -28,6 +28,6 @@ Python
 
 📫 Como Entrar em Contato
 
-LinkedIn: https://www.linkedin.com/in/elisa-david-rocchetti-dos-santos-08a7bb333/
+LinkedIn: https://www.linkedin.com/in/elisa-rocchetti-08a7bb333/
 
 E-mail: dev.elisarocchetti@gmail.com
